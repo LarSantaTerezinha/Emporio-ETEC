@@ -13,7 +13,7 @@ if(!isset($_SESSION['email'])){
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
 </head>
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<link  rel="stylesheet" href="css/bootstrap.css">
 
 <body>
     
@@ -97,6 +97,6 @@ if(!isset($_SESSION['email'])){
         <li><a href="encerrar.php">Encerrar</a></li>
     </ul>
 
-    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.js"></script>
 </body>
 </html>
